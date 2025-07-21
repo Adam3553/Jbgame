@@ -35,7 +35,7 @@ CMD*/
 <body>
 
 <nav class="navbar">
-    <h1><i class="fas fa-gamepad"></i> JBGAMES</h1>
+    <h1><i class="fas fa-gamepad"></i> BOSS GAMES </h1>
     <a href="<% options.HomeUrl %>"><i class="fas fa-arrow-left"></i> Back</a>
 </nav>
 
@@ -43,7 +43,7 @@ CMD*/
     <div class="form-container">
         <h1 class="heading">Request Game</h1>
         <form id="gameForm">
-            <label for="game-name">Enter bro Your Game Name:</label>
+            <label for="game-name">Enter Your Game Name:</label>
             <input id="game-name" class="input-field" placeholder="Game Name" autocomplete="off">
             <div id="error-message" class="down-error"></div>
             <button class="submit-button" type="button" id="submitBtn">Submit</button>
