@@ -4,8 +4,14 @@
   need_reply: false
   auto_retry_time: 
   folder: 
-  answer: 
-  keyboard: 
+
+  <<ANSWER
+
+  ANSWER
+
+  <<KEYBOARD
+
+  KEYBOARD
   aliases: 
   group: 
 CMD*/
@@ -29,7 +35,7 @@ CMD*/
 <body>
 
 <nav class="navbar">
-    <h1><i class="fas fa-gamepad"></i> Hazex Games</h1>
+    <h1><i class="fas fa-gamepad"></i> BOSS GAMES </h1>
     <a href="<% options.HomeUrl %>"><i class="fas fa-arrow-left"></i> Back</a>
 </nav>
 

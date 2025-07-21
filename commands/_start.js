@@ -31,6 +31,8 @@ var txt = `🎮 *Hello ${user.first_name}! Welcome to JB Games!*
 
 ✨ Tap *Open Games* to start playing now!
 
+ᴍᴀᴅᴇ ʙʏ  @Amoais
+
 🕹️ *JB Games — Fun Never Ends!*
 `
 
